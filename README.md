@@ -1,8 +1,9 @@
-## 🧔 Olá
+# Taiwan Marinho
+### Desenvolvedor Fullstack
 
-Eu sou Taiwan Marinho
-
-Desenvolvedor Fullstack
+<p>
+Sou um desenvolvedor Fullstack muito ambicioso procurando uma função em uma empresa de TI, com a oportunidade de trabalhar com as tecnologias mais recentes em projetos desafiadores e diversificados.
+</p>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiwan9&show_icons=true&theme=dark" />
