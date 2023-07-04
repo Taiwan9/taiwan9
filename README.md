@@ -2,7 +2,7 @@
 ### Desenvolvedor Fullstack
 
 <p>
-Sou um desenvolvedor Fullstack muito ambicioso procurando uma função em uma empresa de TI, com a oportunidade de trabalhar com as tecnologias mais recentes em projetos desafiadores e diversificados.
+Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e proatividade, procuro sempre melhorar minhas habilidades a cada dia e busco sempre o melhor resultado e qualidade nos meus serviços, tenho experiência em React, React native, NodeJjs, SQL, NoSQL, TypeScript e JavaScript além de pré-processadores CSS e frameworks front e backend
 </p>
 
 <div>
