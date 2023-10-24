@@ -1,36 +1,22 @@
-# Taiwan Marinho
-### Desenvolvedor Fullstack
+<h1 align="center">Olá 👋, Eu sou Taiwan Marinho</h1>
+<h3 align="center">Apaixonado por Ciência e análise de dados no mundo digital</h3>
 
-<p>
-Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e proatividade, procuro sempre melhorar minhas habilidades a cada dia e busco sempre o melhor resultado e qualidade nos meus serviços, tenho experiência em React, React native, NodeJjs, SQL, NoSQL, JavaScript, C# e Asp.Net além de pré-processadores CSS e frameworks front e backend
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Base Biodiesel](https://github.com/Taiwan9/BaseBiodiesel)
+
+- 🌱 Atualmente estou aprendendo **Python, Machine Learning**
+
+- 💬 Me pergunte sobre **Excel, SQL, Power Bi, Python**
+
+- 📫 How to reach me **clownser1994@gmail.com**
+
+- 📄 Experiência prática [https://github.com/JoaoCruz21/Projetos-Em-Conjunto](https://github.com/JoaoCruz21/Projetos-Em-Conjunto)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taiwan-marinho-de-carvalho-313116110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taiwan-marinho-de-carvalho-313116110/" height="30" width="40" /></a>
 </p>
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiwan9&show_icons=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiwan9&layout=compact&theme=dark" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### Redes sociais
-
-[![Portfólio](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://taiwanmarinhocl.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwan-marinho-de-carvalho-313116110/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![]()]()
-
-### 🛠️ Tecnologias usadas
-<div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
- 
-<img align="center" alt="dot-net" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-
-<img align="center" alt="csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-
-  <img align="center" alt="PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
-  <img align="center" alt="MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-  <img align="center" alt="Node" height="80" width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />    
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taiwan9&show_icons=true&locale=en&layout=compact" alt="taiwan9" /></p>
