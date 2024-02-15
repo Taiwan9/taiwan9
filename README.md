@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Taiwan Marinho</h1>
 <h3 align="center">Apaixonado por Ciência e análise de dados no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Base Biodiesel](https://github.com/Taiwan9/BaseBiodiesel)
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Codetech Soluções](https://www.linkedin.com/company/codetech-solucoes-em-software/)
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning**
+- 🌱 Atualmente estou aprendendo **Machine Learning**
 
 - 💬 Me pergunte sobre **Excel, SQL, Power Bi, Python**
 
