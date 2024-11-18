@@ -26,9 +26,10 @@ Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e
   
  
 <img align="center" alt="Node" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="center" alt="Laravel" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
 <img align="center" alt="Livewire" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />        
-<img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
 
 <img align="center" alt="Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
