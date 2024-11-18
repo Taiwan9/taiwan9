@@ -2,7 +2,7 @@
 ### Desenvolvedor Fullstack
 
 <p>
-Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e proatividade, procuro sempre melhorar minhas habilidades a cada dia e busco sempre o melhor resultado e qualidade nos meus serviços, tenho experiência em React, React native, NodeJjs, SQL, NoSQL, JavaScript, C# e Asp.Net, Asp Clássico, PHP, Docker além de pré-processadores CSS e frameworks front e backend
+Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e proatividade, procuro sempre melhorar minhas habilidades a cada dia e busco sempre o melhor resultado e qualidade nos meus serviços, tenho experiência em React, React native, NodeJjs, SQL, NoSQL, JavaScript, PHP, Laravel, Livewiere Docker além de pré-processadores CSS e frameworks front e backend
 </p>
 
 <div>
@@ -25,9 +25,9 @@ Sou um desenvolvedor Fullstack com experiência no mercado, trabalho em equipe e
   <img align="center" alt="React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   
  
-<img align="center" alt="dot-net" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="center" alt="csharp" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="center" alt="Node" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="center" alt="Laravel" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+<img align="center" alt="Livewire" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />        
 <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img align="center" alt="Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
